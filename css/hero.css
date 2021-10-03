@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+header{
+    background-color: steelblue;
+    text-align: center;    
+}
+header h1 {
+    color:darkred;
+}
+header img{
+    border-radius: 150px;
+    height:250px;
+}
